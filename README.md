@@ -3,9 +3,10 @@ A set of VSCode-integrated tools for competitive programmers.
 
 ## Functionality
 VSCode Competitive Programming Tools enables users to:
-- Managing algorithm snippets for importing in solutions (currently only supports C++ snippets)
-- Quickly creating contest files with a default template and downloading sample input
-- Uploading solutions to your GitHub repository
+- Easily test C++ solutions concurrently to find bugs more quickly
+- Manage algorithm snippets for importing in solutions (currently only supports C++ snippets)
+- Quickly create contest files with a default template and downloading sample input
+- Upload solutions to your GitHub repository
 
 ## Prerequisites
 You must have:
